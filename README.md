@@ -1,2 +1,6 @@
 # wb_test
-1
+
+Запуск:
+
+1. npm i
+2. node index
